@@ -73,7 +73,7 @@ Include some interesting code/features worked with SQL, DAX expressions, and Pow
 
 ### Results/Findings
 
-- The total sales reached $1.20M, with an average sales value of $141 across 8523 items. This indicates a robust sales performance across various product categories and outlet types. The top-selling items include fruits, snack foods, and household products, with **fruits and snacks each contributing $0.18M.
+- The total sales reached $1.20M, with an average sales value of $141 across 8523 items. This indicates a robust sales performance across various product categories and outlet types. The top-selling items include fruits, snack foods, and household products, with fruits and snacks each contributing $0.18M.
 
 - The outlet size plays a significant role in sales performance. Large outlets (high-tier) lead in total sales, generating over $507.90K, while medium and small outlets contribute to $248.99K and $444.79K respectively. The higher-performing outlets are clustered in Tier 3 locations, which are responsible for $472.1K in total sales.
 
